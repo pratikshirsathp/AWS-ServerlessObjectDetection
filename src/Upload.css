@@ -1,0 +1,18 @@
+.files  {
+    outline: 2px dashed #92b0b3;
+    outline-offset: -10px;
+    text-align: center !important;
+    width: 70% !important;
+    margin: auto;
+    padding: 70px;
+    background-color: #f7f7f7;
+}
+
+.row{
+
+    margin-top: 25px;
+}
+.button{
+    text-align: center;
+    margin-top: 25px
+}
