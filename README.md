@@ -6,4 +6,4 @@ Web app detects the object in image uploaded.
 
 AWS Architecture : 
 
-<img src= "image/arch.png">
+<img src= "image/arch.png" width= "800">
